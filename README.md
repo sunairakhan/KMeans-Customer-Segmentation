@@ -46,3 +46,11 @@ The notebook displays the following outputs:
 
 ## Cluster Interpretation
 The K-Means model divided the customers into 5 different groups based on Annual Income and Spending Score. Some clusters represent customers with low income and high spending, while others represent customers with high income and low spending. This clustering result can help a business understand customer behavior and make better marketing decisions.
+How to Run
+
+Open the Google Colab notebook and click Run All. The notebook will automatically clone the GitHub repository, load the datasets, preprocess the data, train the K-Means model, save the model, predict clusters for custom data, and show all required outputs.
+
+Submitted By
+
+Name: Umma Habiba
+Student ID :210117
